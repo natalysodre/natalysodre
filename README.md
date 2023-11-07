@@ -6,7 +6,7 @@
 - Ingressei para a tecnologia no mês de setembro de 2023 com o objetivo de potencializar a minha área de atuação. :bulb:
 - Sou uma profissional T-shaped, isto é, com perfil multidisciplinar, que possui um repertório de conhecimento em diferentes campos. 
 - Pratico o "lifelong learning" para desenvolvimento contínuo de conhecimentos e habilidades. :book:
-- Até o momento, tenho domínio nas tecnologias de web padrão, como HTML e CSS. Não estou empregada na área, mas busco me especializar para isso. :computer:
+- Não estou empregada na área, mas busco me especializar para isso. :computer:
 
 ## Hi, welcome to my profile! My name is Nataly :wave:
 
@@ -14,7 +14,7 @@
 - I joined technology in September 2023 with the aim of enhancing my area of ​​expertise. :bulb:
 - I'm a T-shaped professional, i.e. with a multidisciplinary profile, that has a repertoire of knowledge in different fields.
 - I practice "lifelong learning" for continuous development of knowledge and skills. :book:
-- So far, I'm proficient in standard web technologies, such as HTML and CSS. I'm not employed in the area, but I'm looking to specialize in it. :computer:
+- I'm not employed in the area, but I'm looking to specialize in it. :computer:
 
 <i>Follow me around the web:</i><br>
 
