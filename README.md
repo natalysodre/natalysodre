@@ -17,19 +17,27 @@
 - I am not employed in the area, but I'm looking to specialize in it. :computer:
 
 <i>Follow me around the web:</i><br>
+ 
+<div>
+  
+  <a href="https://www.linkedin.com/in/natalyssodre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-<a href="https://www.linkedin.com/in/natalyssodre/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ ##
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+</div>
 
-## My toolbox
+## 
 
-&nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-&nbsp;<img  src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="Codesandbox" width="50" height="50"/> 
-&nbsp;<img  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="50" height="50"/>
-&nbsp;<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="Notion" width="50" height="50"/>
-&nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> 
-&nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-
-## 📊 &nbsp;Stats
+📊 &nbsp;Stats
 
 ![Nataly' Github Stats](https://github-readme-stats.vercel.app/api?username=natalysodre&show_icons=true&theme=cobalt)
 
