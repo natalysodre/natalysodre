@@ -1,4 +1,4 @@
-# @natalysodre | </> Front-End Developer | Brasil - RS PT/BR - EN
+# @natalysodre | </> Full-Stack Developer | Brasil - RS PT/BR - EN
 
 ## Olá, seja bem-vindo(a) ao meu perfil! Me chamo Nataly :wave:
 
