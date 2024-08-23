@@ -2,17 +2,17 @@
 
 ## Olá, seja bem-vindo(a) ao meu perfil! Me chamo Nataly :wave:
 
-- Sou bióloga e mestre em promoção da saúde. :mortar_board: 
+- Sou Bióloga e Mestre em Promoção da Saúde. :mortar_board: 
 - Ingressei para a tecnologia no mês de agosto de 2023. :bulb:
 - Sou uma profissional T-shaped, isto é, com perfil multidisciplinar, que possui um repertório de conhecimento em diferentes campos. 
 - Pratico o "lifelong learning" para desenvolvimento contínuo de conhecimentos e habilidades. :book:
 
 ## Hi, welcome to my profile! My name is Nataly :wave:
 
-- I have a BSc degree in Biology and MSc degree in Health Promotion. :mortar_board: 
-- I joined technology in August 2023. :bulb:
-- I am a T-shaped professional, i.e. with a multidisciplinary profile, that has a repertoire of knowledge in different fields.
-- I practice "lifelong learning" for continuous development of knowledge and skills. :book:
+- I have a Bachelor's degree in Biology and a Master's degree in Health Promotion. :mortar_board: 
+- I started working in technology in August 2023. :bulb:
+- I am a T-shaped professional, meaning I have a multidisciplinary profile with a broad knowledge base across different fields.
+- I embrace lifelong learning for the continuous development of my knowledge and skills. :book:
 
 <i>Follow me around the web:</i><br>
  
